@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lenac0des
-- 👀 I’m interested in becoming a software developer
+- 👀 I’m interested in becoming a frontend engineer.
 
 
 <!---
