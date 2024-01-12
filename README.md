@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @lenac0des
-- 👀 I’m interested in becoming a frontend engineer.
 
 
 <!---
